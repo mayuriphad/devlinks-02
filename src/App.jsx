@@ -1,4 +1,4 @@
-import { useState } from 'react'
+﻿import { useState } from 'react'
 import Header from './components/Header.jsx'
 import Meta from './components/Meta.jsx'
 import Ingredients from './components/Ingredients.jsx'
@@ -8,7 +8,7 @@ import Footer from './components/Footer.jsx'
 import { useMemo } from 'react'
 
 const recipe = {
-  title: 'Spaghetti Aglio e Olio', // BUG (issue #1): "Spaghetti" should be "Spaghetti"
+  title: 'Spaghetti Aglio e Olio',
   baseServings: 4,
   prepMinutes: 10,
   cookMinutes: 15,
