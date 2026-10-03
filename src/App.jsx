@@ -1,4 +1,4 @@
-﻿import { useState } from 'react'
+import { useState } from 'react'
 import Header from './components/Header.jsx'
 import Meta from './components/Meta.jsx'
 import Ingredients from './components/Ingredients.jsx'
